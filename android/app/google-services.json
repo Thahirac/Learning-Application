@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "49340646797",
+    "firebase_url": "https://vidwath-app-notification.firebaseio.com",
+    "project_id": "vidwath-app-notification",
+    "storage_bucket": "vidwath-app-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49340646797:android:b1b07dd95119ac5d1669c4",
+        "android_client_info": {
+          "package_name": "com.visl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49340646797-f7kb87ftd2v3jfrvj7ufknok3nmplns7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.visl",
+            "certificate_hash": "449a891794deba64c3091df07f7d331b42b56161"
+          }
+        },
+        {
+          "client_id": "49340646797-udfneqedr97ca3b53sgr4dttl7lk7ta6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.visl",
+            "certificate_hash": "c760defdc282e8155cbe874e1a9a8f2f84210c31"
+          }
+        },
+        {
+          "client_id": "49340646797-l6edcimmk7hs9vvs434eip5n0hp9enf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOFvy7oOQ_XdAYVa3VcSGKzNOf2upjjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49340646797-l6edcimmk7hs9vvs434eip5n0hp9enf4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "49340646797-kq4778g236trh7iit54ko0r08e3p2d8e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.visl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
